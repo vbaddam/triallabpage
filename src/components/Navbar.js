@@ -1,9 +1,4 @@
 import React from "react"
-import scrollTo from "gatsby-plugin-smoothscroll"
-import { Link } from "gatsby"
-// import about from "../components/about.js"
-import { AnchorLink } from "gatsby-plugin-anchor-links";
-import styled from "styled-components"
 
 
 const Navbar = () => {
@@ -11,14 +6,8 @@ const Navbar = () => {
     <div className="section">
       <div className="container">
         <div className="navbar-wrapper">
-          <div
-            role="button"
-            onClick={() => scrollTo("#home")}
-            className="name"
-            tabIndex={0}
-          >
+          <div className="name">
             Machine Learning Laboratory @VT
-            
           </div>
           <a href = '#' className = "toggle-button">
             <span className = "bar"></span>

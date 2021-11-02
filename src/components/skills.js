@@ -1,5 +1,4 @@
 import React from "react"
-import data from "../yourdata"
 import Fade from "react-reveal/Fade"
 
 const Skills = () => {

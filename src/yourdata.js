@@ -11,9 +11,6 @@ import githubIcon from "./images/githubIcon.gif"
 import twitterIcon from "./images/twitterIcon.gif"
 import googlescholarIcon from "./images/googlescholarIcon.gif"
 import labIcon from "./images/labIcon.gif"
-import codepenIcon from "./images/codepen.svg"
-import dribbbleIcon from "./images/dribbble.svg"
-import instagramIcon from "./images/instagram.svg"
 
 // Members images
 import drhoda from "./images/drhoda.jpeg"

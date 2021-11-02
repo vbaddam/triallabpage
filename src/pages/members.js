@@ -1,7 +1,6 @@
 import React from "react"
 import Fade from "react-reveal/Fade"
 import data from "../yourdata"
-import Profiler from "../components/atoms/profiles"
 import Card from "../components/atoms/card"
 
 // import scss file from styles folder

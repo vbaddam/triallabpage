@@ -4,11 +4,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 // Components
 import Header from "../components/Header"
-import Work from "../components/Work"
 import Skills from "../components/skills"
-import Promotion from "../components/Promotion"
-import Footer from "../components/Footer"
-import News from "../components/News"
 
 const IndexPage = () => (
   <Layout>
