@@ -3,10 +3,11 @@
   "private": true,
   "description": "Portfolio Template For Awesome Peoples",
   "version": "0.1.0",
-  "author": "Chetan Verma <hello@chetanverma.com>",
+  "author": "ML Lab>",
   "dependencies": {
     "babel-plugin-styled-components": "^1.13.3",
     "gatsby": "^2.26.1",
+    "gatsby-cli": "^4.0.0",
     "gatsby-image": "^2.5.0",
     "gatsby-plugin-anchor-links": "^1.2.1",
     "gatsby-plugin-manifest": "^2.6.1",
