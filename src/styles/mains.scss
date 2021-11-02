@@ -11,8 +11,6 @@
 @import "./work.scss";
 @import "./about.scss";
 @import "./skills.scss";
-@import "./promotion.scss";
-@import "./footer.scss";
 @import "./members.scss";
 @import "./publications.scss";
 
@@ -26,7 +24,9 @@ body {
   overflow-y: scroll;
   overflow-x: hidden;
 }
-
+a {
+  text-decoration: none;
+}
 .section {
   width: 100vw;
   height: auto;

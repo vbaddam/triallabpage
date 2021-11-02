@@ -3,6 +3,9 @@ import data from "../yourdata"
 import Fade from "react-reveal/Fade"
 
 
+import "../styles/Header.scss"
+import "../styles/include-media.scss"
+
 
 const Publications = () => {
     return (

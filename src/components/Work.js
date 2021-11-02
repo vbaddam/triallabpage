@@ -4,6 +4,9 @@ import Fade from "react-reveal/Fade"
 
 import data from "../yourdata"
 
+import "../styles/Header.scss"
+import "../styles/include-media.scss"
+
 const Work = () => {
   return (
     <div className="section" id="work">

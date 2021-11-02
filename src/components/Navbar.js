@@ -1,5 +1,7 @@
 import React from "react"
 
+import "../styles/Header.scss"
+import "../styles/include-media.scss"
 
 const Navbar = () => {
   return (

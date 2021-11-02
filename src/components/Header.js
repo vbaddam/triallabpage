@@ -2,6 +2,10 @@ import React from "react"
 import Fade from "react-reveal/Fade"
 import group_image from "../images/dub.jpeg"
 
+// import scss for headr
+import "../styles/Header.scss"
+import "../styles/include-media.scss"
+
 const Header = () => {
   return (
     <div className="section" id="home">

@@ -1,9 +1,12 @@
 import React from "react"
 import Fade from "react-reveal/Fade"
 import data from "../yourdata"
-import Card from "../components/atoms/card"
+import Card from "../components/card"
 
 // import scss file from styles folder
+
+import "../styles/Header.scss"
+import "../styles/include-media.scss"
 
 
 
@@ -21,7 +24,7 @@ const Members = () => {
             <img className="image-wrapper" src={data.drhodaimg} alt="about"></img>
             </div>
             <span>
-                <h3>Dr. Hoda Eldardiry</h3>
+                <h3><a href = "https://people.cs.vt.edu/hdardiry/">Dr. Hoda Eldardiry</a></h3>
             </span>
           
           <Fade bottom cascade>
