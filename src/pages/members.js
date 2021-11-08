@@ -5,7 +5,7 @@ import Card from "../components/card"
 
 // import scss file from styles folder
 
-import "../styles/Header.scss"
+import "../styles/members.scss"
 import "../styles/include-media.scss"
 
 

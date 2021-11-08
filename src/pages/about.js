@@ -3,7 +3,7 @@ import Fade from "react-reveal/Fade"
 import data from "../yourdata"
 
 // import scss from news
-import "../styles/Header.scss"
+import "../styles/about.scss"
 import "../styles/include-media.scss"
 
 const About = () => {

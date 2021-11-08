@@ -11,23 +11,9 @@
   justify-content: space-between;
   .name {
     font-weight: 600;
+    font-size: 1rem;
   }
   .links-wrapper {
-    button {
-      text-decoration: none;
-      padding: 10px;
-      font-family: "Open Sans";
-      opacity: 0.6;
-      transition: all 0.2s ease-in-out;
-      font-size: 16px;
-      background-color: transparent;
-      outline: none;
-      border: 0px;
-      cursor: pointer;
-      &:hover {
-        opacity: 1;
-      }
-    }
     .active {
       color: black;
     }
@@ -69,7 +55,11 @@
   background-color:gray;
   border-radius: 10px;
 }
-
+@media (max-width: 768px) {
+  .name {
+    display: flex;
+  }
+}
 @media (max-width: 1250px) {
   .toggle-button {
     display: flex;

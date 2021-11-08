@@ -4,7 +4,7 @@ import Fade from "react-reveal/Fade"
 
 import data from "../yourdata"
 
-import "../styles/Header.scss"
+import "../styles/work.scss"
 import "../styles/include-media.scss"
 
 const Work = () => {

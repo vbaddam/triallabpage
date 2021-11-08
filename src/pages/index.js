@@ -1,14 +1,14 @@
 import React from "react"
 
 import Layout from "../components/layout"
-import SEO from "../components/seo"
 // Components
 import Header from "../components/Header"
 import Skills from "../components/skills"
 
+import "../styles/mains.scss"
+
 const IndexPage = () => (
   <Layout>
-    <SEO title="Lab webpage" />
     <Header></Header>
     <Skills></Skills>
   </Layout>

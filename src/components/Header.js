@@ -12,7 +12,7 @@ const Header = () => {
       <div className="container">
         <div className="header-wrapper">
           <Fade top>
-            <div className="card">
+            <div className="card1">
               <img className = "img-header" src={group_image} alt="group" />
             </div>
           </Fade>

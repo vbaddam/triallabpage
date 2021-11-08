@@ -1,7 +1,7 @@
 import React from "react";
 import Fade from "react-reveal/Fade"
 
-import "../styles/Header.scss"
+import "../styles/news.scss"
 import "../styles/include-media.scss"
 
 
